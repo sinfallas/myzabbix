@@ -1,4 +1,22 @@
-commit e0ac6edf7b30e336f9e4be367f33bf65845117ea (HEAD -> master, origin/master, origin/HEAD)
+commit e3d81ff49df051506e4da89c6f6944264ab0f5ce (HEAD -> master, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Jul 20 21:16:22 2019 -0400
+
+    * templates completos
+
+commit 8a32601b99f3a10f32f26fccca5788a783dc3691
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Jul 21 01:13:38 2019 +0000
+
+    Agregar LICENSE
+
+commit c8b9c0deb748de091ee05ac00b1c37be6aa785bd
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Jul 20 21:11:47 2019 -0400
+
+    * changelog
+
+commit e0ac6edf7b30e336f9e4be367f33bf65845117ea
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Jul 20 21:11:25 2019 -0400
 
